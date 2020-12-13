@@ -1,0 +1,7 @@
+- edge(11,13),edge(14,11),edge(14,13),edge(12,13),edge(12,14).
+- edge(21,22),edge(22,23),edge(23,21),edge(22,24).
+- edge(33,31),edge(31,32),edge(32,33),edge(32,34),edge(33,34).
++ edge(43,41),edge(41,42),edge(42,44),edge(43,44).
++ edge(51,52),edge(52,53).
++ edge(63,67),edge(67,66),edge(66,61),edge(61,62),edge(62,63),edge(63,64),edge(64,65),edge(65,68),edge(68,67).
+- edge(11,13),edge(14,11),edge(14,13),edge(12,13),edge(12,14).

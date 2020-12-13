@@ -1,0 +1,3 @@
++ !p(X, Y, f(Z)) , q(W)
++ !p(marco, polo, f(boat)) , q(lagoons) , r(sunny)
++ !p(drake, lawrence, f(camel)) , q(desert)

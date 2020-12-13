@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="cplex">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Applications/IBM/ILOG/CPLEX_Studio124/cplex/lib/cplex.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/Applications/IBM/ILOG/CPLEX_Studio124/cplex/bin/x86-64_darwin9_gcc4.0" />
+    </NATIVE>
+    <SOURCES />
+    <excluded>
+      <root url="file://$USER_HOME$/Applications/IBM/ILOG/CPLEX_Studio124/cplex/bin/x86-64_darwin9_gcc4.0" />
+    </excluded>
+  </library>
+</component>

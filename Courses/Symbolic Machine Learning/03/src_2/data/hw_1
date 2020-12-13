@@ -1,0 +1,2 @@
++ !goesByVehicle(car, ownerOf(car)) , environmentalist(adam) , physicallyActive(age(adam), sex(adam), athlete(adam)) , married(adam, eve)
++ !goesByVehicle(bicycle, ownerOf(bicycle)) , environmentalist(david) , environmentalist(sophia) , physicallyActive(age(david), sex(david), athlete(david)) , physicallyActive(age(sophia), sex(sophia), athlete(sophia)) , married(david, sophia)
