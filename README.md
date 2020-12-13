@@ -1,2 +1,2 @@
-![cv1](Images/cv1.png)
-![cv2](Images/cv2.png)
+![cv1](images/cv1.png)
+![cv2](images/cv2.png)
