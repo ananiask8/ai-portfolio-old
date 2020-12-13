@@ -1,1 +1,1 @@
-![cv](https://github.com/ananiask8/ai-portfolio/blob/master/cv.pdf)
+![cv](cv.pdf)
